@@ -1,3 +1,5 @@
+![banner where?](https://github.com/czett/rnarchive/blob/main/assets/banner.png)
+
 # RNArchive
 
 **RNArchive** is a Python application that encodes files into RNA-like sequences and decodes them back to their original form. The program uses a simple mapping of bytes to RNA codons (A, C, G, U) and provides a graphical user interface for ease of use.
