@@ -45,7 +45,7 @@
 
 1. Run the application:
    ```bash
-   python rnarchive.py
+   python app.py
    ```
 
 2. Use the graphical interface:
