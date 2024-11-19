@@ -52,6 +52,7 @@ def encode_handler() -> None:
 root = Tk()
 root.title("RNArchive")
 root.geometry("500x400")
+root.iconbitmap("assets/icon.ico")
 
 title = Label(text="RNArchive")
 title.pack(pady=20)
